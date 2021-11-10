@@ -1,4 +1,4 @@
-# Car Price prediction
+# Car Price prediction Part 2
 
 
 ## Прогнозирование стоимости автомобиля по характеристикам
